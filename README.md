@@ -15,8 +15,6 @@ A script that can easily be pasted into the Console while on someone's Linkedin 
 
 ## Date Time Info
 <table>
-<th>
-</th>
 <tr>
 <td>Script Created</td><td>2020/04/06</td>
 </tr>
