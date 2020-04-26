@@ -8,10 +8,11 @@ A script that can easily be pasted into the Console while on someone's Linkedin 
 
   1. Copy JavaScript Code from file on Github
   2. Navigate to the person of interest on Linkedin
-  3. Open up the Developer Console
-  4. Navigate to the console tab
-  5. Paste JavaScript previously copied
-  6. Run and View output beneath script pasted
+  3. Make sure all wor history is shown. Scroll down and click "Show more experiences"
+  4. Open up the Developer Console
+  5. Navigate to the console tab
+  6. Paste JavaScript previously copied
+  7. Run and View output beneath script pasted
 
 ## Date Time Info
 <table>
