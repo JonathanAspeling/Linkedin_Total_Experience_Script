@@ -26,6 +26,4 @@ if (months>11){
     total_experience += (months-(months%12))/12;
     months += (months-(months%12))*-1;
 }
-
-
 console.log("A Total of "+String(total_experience)+" Years and "+ String(months)+" Months");
