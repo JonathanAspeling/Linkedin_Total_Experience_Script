@@ -8,7 +8,7 @@ A script that can easily be pasted into the Console while on someone's Linkedin 
 
   1. Copy JavaScript Code from file on Github
   2. Navigate to the person of interest on Linkedin
-  3. Make sure all wor history is shown. Scroll down and click "Show more experiences"
+  3. Make sure all work history is shown. Scroll down and click "Show more experiences"
   4. Open up the Developer Console
   5. Navigate to the console tab
   6. Paste JavaScript previously copied
@@ -23,4 +23,7 @@ A script that can easily be pasted into the Console while on someone's Linkedin 
 <td>Last updated/working</td><td> 2020/04/06</td>
 </tr>
 </table>
+
+# Reading
+* [How to create chrome extension](https://thoughtbot.com/blog/how-to-make-a-chrome-extension "ThoughtBot")
 
